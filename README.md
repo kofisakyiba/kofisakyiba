@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kofisakyiba
 - 👀 I’m interested in chnagepoint analysis at the end of sample and corresponding forecasts models
-- 🌱 I’m currently learning for my PhD in Mathematical Statistics
+- 🌱 I’m currently learning for forecasting models in the presence of change points and also wavelet transformation
 - 💞️ I’m looking to collaborate on expert in chnagepoint models(at the end of sample) and wavelet transformation
 - 📫 How to reach me kofisakyiba@gmail.com
 
